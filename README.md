@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Dwivedi</h1>
 <h3 align="center">A passionate Javascript developer from India</h3>
 
-- 🔭 I’m currently working on [Selective Insurance](https://selective.com)
+- 🔭 I’m currently working on [Qatar National Bank](https://qnb.com)
 
 - 🌱 I’m currently learning **NodeJS, GraphQL, ExpressJS.**
 

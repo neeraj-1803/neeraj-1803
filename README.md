@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects and resume is available at [https://reverent-aryabhata-889af9.netlify.app](https://reverent-aryabhata-889af9.netlify.app)
+- 👨‍💻 All of my projects and [resume](https://neerajdwivedi.netlify.app/) is available [here](https://neerajdwivedi.netlify.app/)
 
 - 💬 Ask me about **Javascript, HTML, CSS or ReactJS**
 
